@@ -25,7 +25,7 @@
     "@angular/platform-browser": "2.2.1",
     "@angular/platform-browser-dynamic": "2.2.1",
     "@angular/router": "3.2.1",
-    "angular": "1.5.8",
+    "angular": "1.8.0",
     "angular-animate": "1.5.8",
     "angular-bootstrap-toggle-switch": "git+https://github.com/JumpLink/angular-toggle-switch.git#v0.5.6",
     "angular-chart.js": "1.0.3",
